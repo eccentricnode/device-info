@@ -17,5 +17,6 @@ export class HomePage {
 
   async displayDeviceInfo() {
     this.deviceInfo = await Device.getInfo();
+    return console.log(this.deviceInfo);
   }
 }
