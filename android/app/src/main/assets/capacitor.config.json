@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "device-info",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
